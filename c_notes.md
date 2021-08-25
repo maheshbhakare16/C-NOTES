@@ -1,4 +1,4 @@
-> # History : <a name="history"></a>
+> # History : <a name="history_of_c"></a>
 
 > ![History of c](./PAGES/PAGE_1.jpg)
 
