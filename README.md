@@ -8,4 +8,4 @@
 ### - [C Toolchain](./c_notes.md#c_toolchain)
 ### - [C Storage Classes](./c_notes.md#storage_classes)
 ### - [C Tokens](./c_notes.md#c_tokens)
-### - [Operators in C](./Pc_notes.md#operators_in_c)
+### - [Operators in C](./c_notes.md#operators_in_c)
